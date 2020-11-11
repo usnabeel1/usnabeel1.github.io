@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#foot{
+    text-align: center;
+    justify-content: center;
+}
+#like{
+    border: none;
+    border-style: hidden;
+}
+
+/*# sourceMappingURL=/styles.6145e9cd.css.map */
